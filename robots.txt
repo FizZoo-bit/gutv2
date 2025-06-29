@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fizzoo-bit.github.io/gutv2/sitemap.xml
