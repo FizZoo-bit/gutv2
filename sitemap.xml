@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://fizzoo-bit.github.io/gutv2/</loc></url>
-  <url><loc>https://fizzoo-bit.github.io/gutv2/articles/signs-your-gut-needs-healing.html</loc></url>
-  <url><loc>https://fizzoo-bit.github.io/gutv2/articles/restoring-gut-flora.html</loc></url>
-  <url><loc>https://fizzoo-bit.github.io/gutv2/articles/gut-brain-connection.html</loc></url>
-  <url><loc>https://fizzoo-bit.github.io/gutv2/articles/leaky-gut-syndrome.html</loc></url>
-  <url><loc>https://fizzoo-bit.github.io/gutv2/articles/foods-that-heal.html</loc></url>
-  <url><loc>https://fizzoo-bit.github.io/gutv2/articles/best-diet-for-gut-health.html</loc></url>
+  <url>
+    <loc>https://fizzoo-bit.github.io/gutv2/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://fizzoo-bit.github.io/gutv2/articles/article1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://fizzoo-bit.github.io/gutv2/articles/article2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://fizzoo-bit.github.io/gutv2/contact.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
